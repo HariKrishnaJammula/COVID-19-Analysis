@@ -8,4 +8,6 @@ HYPOTHESIS - 2
 The Top 15 countries for all confirmed cases, active cases, deaths, recovered cases, new cases of covid, and new recoveredcases of covid were determined using a horizontal bar graph.
 HYPOTHESIS - 3
 Let's start with Interactive Visualization with the help of plotly And lets see confirmed cases and death cases entrie world andalso a world map displying cases over time through a scroll bar.
+HYPOTHESIS - 4
+Comparing number of deaths vs confimed cases using scatter plot in plotly,Top 10 countries Recover ratio and Death ratiosaffected by the Corona virus
 
